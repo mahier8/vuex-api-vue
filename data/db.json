@@ -1,0 +1,35 @@
+{
+    "orders": [
+      {
+        "id": 1,
+        "image": "americano.jpeg",
+        "title": "Americano",
+        "price": 2000
+      },
+      {
+        "id": 2,
+        "image": "icedAmericano.jpeg",
+        "title": "Iced Americano",
+        "price": 2000
+      },
+      {
+        "id": 3,
+        "image": "latte.jpeg",
+        "title": "Latte",
+        "price": 2500
+      },
+      {
+        "id": 4,
+        "image": "decaf.jpeg",
+        "title": "Decaf",
+        "price": 3000
+      },
+      {
+        "id": 5,
+        "image": "tea.jpeg",
+        "title": "Tea",
+        "price": 1500
+      }
+    ]
+  }
+  
